@@ -5,3 +5,4 @@
 *DOMAIN:FRONT END DEVELOPMENT
 *DURATION:4 WEEKS
 *MENTOR:NEELA SANTOSH
+*OUTPUT:![Image](https://github.com/user-attachments/assets/78a5a364-b930-484d-a2d8-f27d2326e34c)
