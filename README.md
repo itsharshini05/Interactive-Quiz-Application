@@ -1,16 +1,23 @@
 #INTERACTIVE-QUIZ-APPLICATION
 
+
 *COMPANY:CODTECH IT SOLUTION
+
 
 *NAME:HARSHINI THUMMALA
 
+
 *INTERN ID:CT04DL91
+
 
 *DOMAIN:FRONT END DEVELOPMENT
 
+
 *DURATION:4 WEEKS
 
+
 *MENTOR:NEELA SANTOSH
+
 
 *DESCRIPTION:This project is a web-based Interactive Quiz Application built using HTML, CSS, and JavaScript. The main objective was to create a clean, user-friendly app that allows users to answer multiple-choice questions and receive instant feedback after each response. Additionally, the app tracks the user's score in real time and displays a final result page upon completion of the quiz.
 
