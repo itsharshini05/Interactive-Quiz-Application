@@ -1,25 +1,25 @@
 #INTERACTIVE-QUIZ-APPLICATION
 
 
-*COMPANY:CODTECH IT SOLUTION
+*COMPANY*:CODTECH IT SOLUTION
 
 
-*NAME:HARSHINI THUMMALA
+*NAME*:HARSHINI THUMMALA
 
 
-*INTERN ID:CT04DL91
+*INTERN ID*:CT04DL91
 
 
-*DOMAIN:FRONT END DEVELOPMENT
+*DOMAIN*:FRONT END DEVELOPMENT
 
 
-*DURATION:4 WEEKS
+*DURATION*:4 WEEKS
 
 
-*MENTOR:NEELA SANTOSH
+*MENTOR*:NEELA SANTOSH
 
 
-*DESCRIPTION:This project is a web-based Interactive Quiz Application built using HTML, CSS, and JavaScript. The main objective was to create a clean, user-friendly app that allows users to answer multiple-choice questions and receive instant feedback after each response. Additionally, the app tracks the user's score in real time and displays a final result page upon completion of the quiz.
+*DESCRIPTION*:This project is a web-based Interactive Quiz Application built using HTML, CSS, and JavaScript. The main objective was to create a clean, user-friendly app that allows users to answer multiple-choice questions and receive instant feedback after each response. Additionally, the app tracks the user's score in real time and displays a final result page upon completion of the quiz.
 
 The design focuses on simplicity and accessibility, ensuring that users can navigate the quiz intuitively, whether on desktop or mobile. Questions are displayed one at a time to avoid clutter and help users stay focused.
 
@@ -78,4 +78,4 @@ These files were uploaded to GitHub via both drag-and-drop (using Add file > Upl
 
 📌 Conclusion
 This task demonstrates essential skills in front-end web development, including responsive design, DOM manipulation, real-time feedback, and version control using Git. The project is not only technically sound but also polished and adaptable for real-world use. It reflects a solid understanding of how to build interactive applications with clean code and modern tools.
-*OUTPUT:![Image](https://github.com/user-attachments/assets/78a5a364-b930-484d-a2d8-f27d2326e34c)
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/78a5a364-b930-484d-a2d8-f27d2326e34c)
