@@ -19,7 +19,7 @@
 *MENTOR*:NEELA SANTOSH
 
 
-*DESCRIPTION*:This project is a web-based Interactive Quiz Application built using HTML, CSS, and JavaScript. The main objective was to create a clean, user-friendly app that allows users to answer multiple-choice questions and receive instant feedback after each response. Additionally, the app tracks the user's score in real time and displays a final result page upon completion of the quiz.
+*DESCRIPTION*: This project is a web-based Interactive Quiz Application built using HTML, CSS, and JavaScript. The main objective was to create a clean, user-friendly app that allows users to answer multiple-choice questions and receive instant feedback after each response. Additionally, the app tracks the user's score in real time and displays a final result page upon completion of the quiz.
 
 The design focuses on simplicity and accessibility, ensuring that users can navigate the quiz intuitively, whether on desktop or mobile. Questions are displayed one at a time to avoid clutter and help users stay focused.
 
